@@ -1,7 +1,7 @@
 # D.A.A.-2nd_Year-MSIT
 
 Solutions of **Design & Analysis of Algorithm** problems (C/C++ - Programming). Everything are lucidly explained and discussed. But if you stuck somewhere. Just Google up your problems or go to [Stack Overflow](https://stackoverflow.com/).
-
+![GitHub Logo](https://images.unsplash.com/photo-1515890435782-59a5bb6ec191?ixlib=rb-1.2.1&w=1000&q=80)
 # Dynamic Programming :-
 
    * [Matrix Chain Multiplication](https://github.com/SBMaity/D.A.A.-2nd_Year-MSIT/blob/master/Matrix_Chain_Multiplication.c)
