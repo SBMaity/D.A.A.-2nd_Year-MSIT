@@ -1,13 +1,16 @@
 # D.A.A.-2nd_Year-MSIT
+
 Solutions of **Design & Analysis of Algorithm** problems (C/C++ - Programming). Everything are lucidly explained and discussed. But if you stuck somewhere. Just Google up your problems or go to [Stack Overflow](https://stackoverflow.com/).
 
 ### 1)	Dynamic Programming :-
+
    * Matrix Chain Multiplication
    * Longest Common Subsequence
    * 0/1 Knapsack problem
    * Travelling Salesman Problem
    * Floyd–Warshall Algorithm
    * Bellman Ford Algorithm
+
 ### 2)	Greedy Method :-
    * Fractional Knapsack Problem
    * Prim's Algorithm
