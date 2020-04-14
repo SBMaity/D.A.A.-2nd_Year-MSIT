@@ -6,7 +6,7 @@ Solutions of **Design & Analysis of Algorithm** problems (C/C++ - Programming). 
    * Longest Common Subsequence
    * 0/1 Knapsack problem
    * Travelling Salesman Problem
-   * Floyd Warshall Algorithm
+   * Floyd–Warshall Algorithm
    * Bellman Ford Algorithm
 ### 2)	Greedy Method :-
    * Fractional Knapsack Problem
@@ -21,7 +21,7 @@ Solutions of **Design & Analysis of Algorithm** problems (C/C++ - Programming). 
    * Merge Sort
    * Quick Sort
    * Finding Maximum and Minimum
-   * Strassen's Marix Multiplication
+   * Strassen's Matrix Multiplication
 ### 4)	Approximation Method :-
    * Travelling Salesman Problem
    * Vertex Cover Problem
@@ -29,4 +29,4 @@ Solutions of **Design & Analysis of Algorithm** problems (C/C++ - Programming). 
    * N-Queen's Problem
    * Graph Coloring
 ### 6)	Branch & Bound :-
-   * 0/1 Kanpsack Problem.
+   * 0/1 Knapsack Problem.
