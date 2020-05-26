@@ -31,4 +31,5 @@ Solutions of **Design & Analysis of Algorithm** problems (C/C++ - Programming). 
    * N-Queen's Problem
    * Graph Coloring
 # Branch & Bound :-
-   * 0/1 Knapsack Problem.
+   * 0/1 Knapsack Problem
+   * 15 Puzzle Problem
