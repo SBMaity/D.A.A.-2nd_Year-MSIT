@@ -1,4 +1,4 @@
-# D.A.A.-2nd_Year-MSIT
+# D.A.A.-2nd Year-MSIT
 
 Solutions of **Design & Analysis of Algorithm** problems (C/C++ - Programming). Everything are lucidly explained and discussed. But if you stuck somewhere. Just Google up your problems or go to [Stack Overflow](https://stackoverflow.com/).
 # Dynamic Programming :-
@@ -33,3 +33,5 @@ Solutions of **Design & Analysis of Algorithm** problems (C/C++ - Programming). 
 # Branch & Bound :-
    * 0/1 Knapsack Problem
    * 15 Puzzle Problem
+# More resources :-
+  * [Interview Problems](https://practice.geeksforgeeks.org/batch/must-do-1)
